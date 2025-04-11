@@ -43,12 +43,17 @@
 
 ## Установка и запуск
 
+Клонировать репозиторий
 ```bash
-# Клонировать репозиторий
-git clone https://github.com/username/project-name.git
+git clone https://github.com/jqsdr/TicTacToeProject.git
+```
 
-# Установка зависимостей
+Установка зависимостей
+```bash
 npm install
+```
 
-# Запуск проекта
+Запуск проекта
+```bash
 npm run dev
+```
